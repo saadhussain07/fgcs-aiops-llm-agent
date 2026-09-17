@@ -90,8 +90,8 @@ The LLM agent and a conventional classifier reach **statistically comparable det
 **1. Clone and install dependencies**
 
 ```bash
-git clone https://github.com/Muhib78600/<REPO-NAME>.git
-cd <REPO-NAME>
+git clone https://github.com/saadhussain07/fgcs-aiops-llm-agent.git
+cd fgcs-aiops-llm-agent
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
 pip install -r requirements.txt
